@@ -1,4 +1,4 @@
-Babusha Studio vuelve a la carga con su nuevo juego: “Game Name”
+# Babusha Studio vuelve a la carga con su nuevo juego: “Game Name”
 
 Babusha Studio regresa al mercado de videojuegos con su último proyecto el board game con elementos de RPG "Game Name", ya disponible en la App Store y en Google Play Store para dispositivos móviles iOS y Android, y para PC a través de Steam. 
 
