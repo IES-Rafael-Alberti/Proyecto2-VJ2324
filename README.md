@@ -1,2 +1,2 @@
-# Proyecto2-VJ2324
-Repositorio para el Proyecto 2: PEGI, mercado objetivo, nota de prensa
+# Proyecto3-VJ2324
+Repositorio para el Proyecto 3: Promoción (evnetos, stand, nota de prensa)
