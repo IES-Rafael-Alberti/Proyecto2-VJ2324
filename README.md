@@ -1,2 +1,2 @@
 # Proyecto3-VJ2324
-Repositorio para el Proyecto 3: Promoción (evnetos, stand, nota de prensa)
+Repositorio para el Proyecto 3: Promoción (eventos, stand, nota de prensa)
